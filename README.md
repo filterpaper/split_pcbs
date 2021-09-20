@@ -1,4 +1,4 @@
-# Custom Ferris Sweepv2
+# Custom Ferris Sweep PCBs
 ![sweepv2_custom](sweepv2_custom.png)
 Customised Ferris Sweep with logo and puck support removed from the following:
 * [Sweepv2](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2)
