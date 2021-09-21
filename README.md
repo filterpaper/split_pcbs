@@ -17,8 +17,8 @@ See David Barr's [Sweep](https://github.com/davidphilipbarr/Sweep) page for inst
 ## Renders
 
 ### Sweepv2
-![sweepv2_custom](sweepv2_custom.png)
+![sweepv2_minimal](sweepv2_minimal.png)
 
 ### Half-swept
-![swept-left](half-swept_custom_left.png)
-![swept-right](half-swept_custom_right.png)
+![swept-left](half-swept_minimal_left.png)
+![swept-right](half-swept_minimal_right.png)
