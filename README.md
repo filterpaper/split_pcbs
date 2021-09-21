@@ -8,3 +8,7 @@ Simplified Ferris [Sweepv2](https://github.com/davidphilipbarr/Sweep/tree/main/S
 * Removed reset switch on half-swept
 * Corrected silkscreen text alignment
 * Added choc switch silkscreen from Pierre's [Ferris v0.1](https://github.com/pierrechevalier83/ferris/tree/main/0.1)
+
+
+![swept-left](half-swept_custom_left.png)
+![swept-right](half-swept_custom_right.png)
