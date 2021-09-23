@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -183,7 +183,7 @@
   )
 
   (module silkscreens:pg1232_top (layer B.Cu) (tedit 5F0CF3AF) (tstamp 614BE41D)
-    (at 199.22 95.13)
+    (at 199.48 95.13)
     (attr virtual)
     (fp_text reference REF** (at 0 -0.5) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -1113,7 +1113,7 @@
   )
 
   (module silkscreens:pg1232_bottom (layer F.Cu) (tedit 5F0CF528) (tstamp 614BE38F)
-    (at 199.32 95.13)
+    (at 199.48 95.13)
     (attr virtual)
     (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1784,7 +1784,7 @@
   )
 
   (module silkscreens:pg1232_bottom (layer B.Cu) (tedit 5F0CF528) (tstamp 614BE38F)
-    (at 69.58 95.13)
+    (at 69.938 95.13)
     (attr virtual)
     (fp_text reference REF** (at 0 -0.5) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -2455,7 +2455,7 @@
   )
 
   (module silkscreens:pg1232_top (layer F.Cu) (tedit 5F0CF3AF) (tstamp 614BE36E)
-    (at 69.58 95.32)
+    (at 69.938 95.13)
     (attr virtual)
     (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
