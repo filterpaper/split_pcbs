@@ -20,6 +20,6 @@ See David Barr's [Sweep](https://github.com/davidphilipbarr/Sweep) page for inst
 
 ## Renders
 
-### Sweepv2
+### Sweepv2.1
 ![sweepv21_custom](sweepv21_custom.png)
 
