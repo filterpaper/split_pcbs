@@ -1,6 +1,6 @@
 # Modified Ferris Sweep PCBs
 
-Minimal Ferris [Sweepv2](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2) and [Half-swept](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep-half-swept) are modified with the following changes:
+Minimal Ferris [Sweepv2.1](https://github.com/davidphilipbarr/Sweep/tree/main/Sweepv2) and [Half-swept](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep-half-swept) are modified with the following changes:
 * Removed mascot, puck and battery support
 * Removed reset switch on half-swept
 * Corrected MCU pin labels and alignment
@@ -21,8 +21,5 @@ See David Barr's [Sweep](https://github.com/davidphilipbarr/Sweep) page for inst
 ## Renders
 
 ### Sweepv2
-![sweepv2_minimal](sweepv2_minimal.png)
+![sweepv21_custom](sweepv21_custom.png)
 
-### Half-swept
-![swept-left](half-swept_minimal_left.png)
-![swept-right](half-swept_minimal_right.png)
