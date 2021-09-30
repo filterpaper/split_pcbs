@@ -12,6 +12,7 @@ To build an Architeuthis dux, you need the following:
 * 1 male-to-male [TRRS](https://www.aliexpress.com/item/32961128759.html) cable
 * 34 [Kailh choc v1](https://www.aliexpress.com/item/4000907409650.html) switches and [keycaps](https://boardsource.xyz/store/5f6ef2d68e3bf05ab838f918)
 * Rubber feet or bumbers for the bottom
+* Optional: [low profile socket](https://www.digikey.com/product-detail/en/315-43-112-41-003000/ED4764-12-ND/4455232) with [Mill-max pins](https://www.digikey.com/product-detail/en/3320-0-00-15-00-00-03-0/ED1134-ND/4147392), or [budget socket pins](https://www.aliexpress.com/item/32852480645.html) with [round pin headers](https://www.aliexpress.com/item/32692992041.html)
 
 Note: Architeuthis dux is a double sided PCB so controllers face down on the left and face up on the right.
 
