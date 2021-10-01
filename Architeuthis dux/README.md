@@ -7,7 +7,7 @@ Simplified versions of [tapioki](https://github.com/tapioki)'s [Architeuthis dux
 
 ## Instructions
 To build an Architeuthis dux, you need the following:
-* 2 [pro-micro](https://www.aliexpress.com/item/32971098005.html) controllers
+* 2 [pro-micro](https://www.aliexpress.com/item/32971098005.html) controllers ([Elite-C](https://boardsource.xyz/store/5ef67ea66786dc1e65a80708) or [Pro-micro C](https://www.aliexpress.com/item/1005003230811462.html))
 * 2 [PJ320A](https://www.aliexpress.com/item/1005001928651798.html) audio jack
 * 1 male-to-male [TRRS](https://www.aliexpress.com/item/32961128759.html) cable
 * 34 [Kailh choc v1](https://www.aliexpress.com/item/4000907409650.html) switches and [keycaps](https://boardsource.xyz/store/5f6ef2d68e3bf05ab838f918)
