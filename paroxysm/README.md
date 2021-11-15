@@ -1,5 +1,7 @@
 # Simplified Paroxysm
 
+![paroxysm](paroxysm_left.png)
+
 Simplified version of [@davidphilipbarr](https://github.com/davidphilipbarr)'s [paroxysm](https://github.com/davidphilipbarr/hypergolic/tree/main/paroxysm) with puck, battery support removed and aligned silkscreens.
 
 ## Instructions
