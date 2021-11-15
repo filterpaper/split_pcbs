@@ -12,7 +12,7 @@ To build, you need the following:
 * Optional: [low profile socket](https://www.digikey.com/product-detail/en/315-43-112-41-003000/ED4764-12-ND/4455232) with [Mill-max pins](https://www.digikey.com/product-detail/en/3320-0-00-15-00-00-03-0/ED1134-ND/4147392), or [budget socket pins](https://www.aliexpress.com/item/32852480645.html) with [round pin headers](https://www.aliexpress.com/item/32692992041.html)
 
 ## QMK Firmware
-To build the QMK firmware, compile for Ferris Sweep because both share the same layout:
+To build the QMK firmware, compile for Cradio:
 ```
 qmk compile -kb cradio -km default
 ```

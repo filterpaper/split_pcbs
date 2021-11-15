@@ -15,7 +15,7 @@ To build, you need the following:
 
 
 ## QMK Firmware
-To build the QMK firmware, compile for Ferris Sweep because both share the same layout:
+To build the QMK firmware, compile for Cradio:
 ```
 qmk compile -kb cradio -km default
 ```
