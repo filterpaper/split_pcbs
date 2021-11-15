@@ -1,7 +1,6 @@
 # Simplified Architeuthis dux
 
-![architeuthis_dux_custom](architeuthis_dux_custom.png)
-![architeuthis_dux_blank](architeuthis_dux_blankv2.png)
+![architeuthis_dux_filled](architeuthis_dux_filled.png)
 
 Simplified versions of [tapioki](https://github.com/tapioki)'s [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) with hotswap socket and puck support removed, fixed phantom drill holes
 
