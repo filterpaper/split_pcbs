@@ -1,4 +1,5 @@
 .DS_Store
 fp-info-cache
 *.kicad_pcb-bak
-*.pro
+*.kicad_pro
+*.kicad_prl
